@@ -21,4 +21,4 @@
 
 ### 商品详情
 
-![xq.jpg](p://obl1kak28.bkt.clouddn.com/xq.jpg)
+![xq.jpg](http://obl1kak28.bkt.clouddn.com/xq.jpg)
